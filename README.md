@@ -31,18 +31,6 @@ sorteio-amigo-secreto/
 ├── script.js           # Lógica do sorteio
 └── README.md           # Documentação do projeto
 
-Clique duas vezes no arquivo ou use um servidor local (como o Live Server do VS Code).
-🎨 Design e Interface
-A interface foi projetada para ser simples e intuitiva, com:
-
-Botões coloridos e interativos.
-Feedback visual ao copiar resultados.
-Tabela organizada para exibir os pares sorteados.
-
-🐛 Problemas Conhecidos
-Limite de Participantes: O algoritmo pode falhar se houver muitos participantes (acima de 100) devido ao limite de tentativas de embaralhamento.
-Compatibilidade: Testado apenas em navegadores modernos. Pode não funcionar corretamente em versões antigas.
-Responsividade: para funciona em dispositivos móveis, tablets e desktops.
 
 👨‍💻 Autor
 Renan Carrilho
