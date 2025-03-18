@@ -25,6 +25,7 @@ Com uma interface simples e intuitiva, você pode adicionar participantes, visua
 📂 Estrutura do Projeto
 
 sorteio-amigo-secreto/
+
 ├── assets              # Diretório de imagens
 ├── index.html          # Página principal
 ├── style.css           # Estilos da aplicação
